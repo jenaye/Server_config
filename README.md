@@ -44,7 +44,7 @@ sudo nano /etc/php5-fpm/fpm/php.ini
 ```
 change cgi.fix_pathinfo=1 to 0 
 
-###  www.conf
+###  www,conf
 ```
 sudo nano /etc/php5/fpm/pool.d/www.conf
 ```
